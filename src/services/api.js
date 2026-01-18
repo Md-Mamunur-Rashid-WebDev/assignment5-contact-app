@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/contacts";
+const API_URL = "https://db-json-hkyy.onrender.com/contacts";
 
 export const getContacts = () => axios.get(API_URL);
 export const addContact = (data) => axios.post(API_URL, data);
