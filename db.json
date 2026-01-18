@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "firstName": "Mamunur",
+      "lastName": "Rashid",
+      "email": "mamun@gmail.com",
+      "phone": "01700000000",
+      "address": "Dhaka",
+      "createdAt": "2026-01-01"
+    },
+    {
+      "id": "f2c7",
+      "firstName": "Amir ",
+      "lastName": "khan",
+      "email": "amir@gmail.com",
+      "phone": "01772558444",
+      "address": "Pakisthan",
+      "createdAt": "2026-01-18T06:04:57.033Z"
+    }
+  ]
+}
